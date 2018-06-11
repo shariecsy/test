@@ -79,6 +79,14 @@
           awesome-vue
         </a>
       </li>
+            <li>
+        <a
+          href="https://www.baidu.com"
+          target="_blank"
+        >
+          baidu website
+        </a>
+      </li>
     </ul>
   </div>
 </template>
